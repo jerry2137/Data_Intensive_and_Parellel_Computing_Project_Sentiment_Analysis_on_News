@@ -35,59 +35,36 @@ Using BoW will capture more meaningful information from the scraped data, as not
 ### TF-IDF
 As BoW does not take into consideration the term frequency within a document and it may be misled by the excessive use of stop words in the documents, having a third result obtained using TF-IDF may produce different results and enhance the quality of our analyses.
 All of these three techniques were performed both in Python using the sklearn library and Scala, using the ml.feature library. The main purpose of this action was to see the difference in performance using a parallel approach over the sequential one but as it would be discussed more in the result sections, we did not find a great difference in time as our dataset was influenced by the web scraping limitations.
-## Results and Analysis
-### Preliminary Observations
-The first few observations we can make, without further processing the data, is through the visualization of most used words in each document to derive some early supposition. In order to have a quick and easy way for human eyes to visualize this kind of information, a word cloud visualization is applied on the top 50 words used in each document using R. Let’s take in consideration one of the topic, such as LGBTQ, we can observe from the image below:
-![alt text](https://github.com/jerry2137/Data_Intensive_and_Parellel_Computing_Project_Sentiment_Analysis_on_News/blob/main/image.jpg?raw=true)
-At first glance, the information conveyed may not be very meaningful, but the most common words in different newspapers can lead us towards different opinions regarding what kind of article they may be writing about. For example entity like SCMP has a lot of words that may resonate more with the younger generation such as instagram, like, queer because it seems that the article is more about positive social movements and interviews as we can see different actors surname , meanwhile the other news entity have often political terminology such as government, court, opposition leading us to think that there are several articles about legislation in favor or against the movement. 
-Although this is a very vague initial interpretation of our data, we were still able to come up with some preliminary ideas about them, and those suggestions could be enforced after performing the sentiment analysis. 
-Another step we have taken to draw some conclusion from our data, is by analyzing how the 5 different newspapers are similar when it comes to writing regarding certain topics. Clustering was applied on both bags of words and tf-idf to see if their term frequencies would affect the result of the clustering or not.
-If we take a look at the PCA graph below as an example, derived from applying clustering on the BoW and TF-IDF, it is quite hard to conclude which result may be more truthful.
-
-The example taken is from the clustering result of Donald Trump related news, and we can observe that in BoW, CNN and The Sun are closely related when it comes to their similarity but as we can it is clearly different when it comes to the result of the TF-IDF clustering, where not only they are quite distant in the graph, but they belong to different clusters. 
-As shown in the later chapter on sentiment analysis, we can observe that the TF-IDF relation between the news entity is closer to the reality as shown in the dense violin chart, because we can see that the shape of CNN and The Sun are completely different, while we can see similarities between The Guardian and SCMP. 
-Applying clustering helped us to have a deeper understanding of the dataset, but it is clear that this representation is far from carrying very meaningful information and this is why performing sentiment analysis is the most common text classification tool, as it is able to provide to the user the most amount of information.
-### Scala Vs Python performance
-As previously mentioned, the data we are working on is comparably low, and as shown in the table below, we have not seen any performance increase by using apache spark, on the other hand, we can see that if we run the python code,  the time to complete the task is even lower. We have tried to keep the test as fair as possible, by calculating the word count using the native methods in both scala and python. In python, we have used sklearn to perform bag of words and TF-IDF using CountVectorizer and TfidfTransformer meanwhile in apache spark, we have used methods CountVectorizer, Tokenizer, HashingTF and IDF from ml.feature. The time was taken using the time library in python and System.currentMilliseconds in scala.
-
-Python
-Apache Spark 2.2.1 Scala
-Word Count
- ~50ms
-~6205ms
-Bag of words
-~330ms
-~6300ms
-TF-IDF
-~350ms
-~6685ms
-
-Initially this time could have come with a surprise but when we read more deep into the specification of Apache Spark, it is obvious to come with this conclusion as the dataset in the project consists of a small quantity because of the limitations of web scraping we have encountered. Apache Spark, has initially a slow start, as it has to initialize the spark context and create the RDDs and it introduces an overhead when it comes to task scheduling and distributing the data in all the nodes meanwhile the test performed in python can immediately start working as soon as the data is loaded.
-Ideally, in future premises, we would like to work with a much bigger datasets in order to obtain more accurate results regarding the different biases of different newspaper, which lead us to try some limit testing to see how much parallel computing may increase the speed of the data processing if we would have a bigger dataset. 
-The test conducted consists in processing all the documents using TF-IDF and for each interaction, we double the amount of the data by “attaching” the documents with themselves leading to exponentially bigger size of data. The time unit in the graph is ms.
-The first premise we have to make is that the time is taken after the documents are loaded, this is the main reason why in the first interaction, we see a lower time than the one reported previously as they included the time to load the documents.
-As we can see, after the first iteration, where spark underperforms compared to python, we can immediately see that the performance advantages offered by Apache Spark become obvious. At the fifth iteration, we can see that the time is already halved between the two approaches.
-This result is even more impressive when we take in consideration that the python code is run on Google Collab, which provides a very impressive GPU, while Apache Spark is run on a virtual machine provided by the university. It is also worth mentioning that the time taken is an average, and we observed that from time to time, the record can fluctuate quite a lot.
-### Analysis and visualization on sentiment analysis
-The sentiment is defined by adding a threshold value on the sentiment model’s output. Score that is below 0.3 is considered negative and a score above 0.7 is considered positive. Score that falls between them is considered neutral.
-We calculated the quantitative bias score using the formula: (positive cases + negative cases) / total cases. This gives us the percentage of non-neutral sentences inside a single news file of the topic. The sentiment prediction is done in Python by Keras and the visualization is done in the R language with ggplot2.
-
-Looking at the bias score, the news topic with the most biased score is LGBT topic in SCMP media. Where 63% of the sentences are considered biased. The lowest biased score, which means the most neutral, is the Israel topic on The Gradian. 34% of the sentences are non neutral.
-However, setting a hard threshold for the sentiment and quantifying them is not the most suitable way to analyze the biased degree of the news. So we also plot various violin charts to compare the original biased data across different news media. Note that the biased score on the figures below are totally different from the score above which is calculated by applying a hard threshold. The score below is the raw prediction output from the pre-trained model without applying any transformation so that we can observe the real sentiment distribution by the violin chart.
-A dense area in a violin chart means the density of data is higher, a thinner area means the data density is lower. In the violin chart, we considered that a violin chart with a fat center near 0.5, or fall within the range of 0.3 to 0.7, and thin ends on the head and tail are the reference for a neutral news result. A chart that has a biased dense area towards either side is considered biased toward the respective sentiment. The box plot appended on top of the violin chart can indicate the interquartile range of the data’s distribution.
-From the above violin charts, several characteristics of the above media can be obtained.
-First, all news media on all news topics we selected have some degree of bias. In general they are biased toward positive sentiment. This can be observed by looking at the tail and head of the violin charts. All violin charts have a thinner tail than the head. This indicates that all news contained a small amount of negative and positive sentiment.
-Bias score on Israel. The most relatively neutral topic is Israel. Their biased score distributions are all dense towards the center while China Daily is slightly biased upwards. Their IQR box mostly falls between 0.3 to 0.7 while China Daily is slightly off. This indicates that all of them are using neutral words on broadcasting the Israel topic compared to other news topics.
-Bias score on LGBT. The most biased news is the LGBT topic on SCMP media.The whole violin chart is biased towards positive and the most dense area is on 0.85. With the median in 0.75 and 50%(By the box plot’s IQR range) of biased score lies between 0.85 and 0.6. The result shows the same characteristics in the scatter plot above, where the same LGBT_SCMP news and media are the most biased compared to the others.
-### Word sentiment neutralization by ChatGPT
-We also put two original pieces of news into ChatGPT and asked it to neutralize the sentiment to observe the result. We selected the LGBT_SCMP news because it is the most biased news according to our analysis result. We also select the ChatGPT_CNN news as another news representing lower-biased news and a topic related to ChatGPT itself.
-We first tried to use the same way as we crawled the data–controlled the web browser and put the data on the webpage. However, we noticed that there are limits on the number of access, so we decided to use the ChatGPT API. As a group consisting of members from different countries, we utilized our advantage of having a phone number outside of Hong Kong to register an OpenAI account and generate an API key. Using the API key, we could retrieve the reply of ChatGPT without interacting with the interface. We only used GPT-3.5 as the model. We would love to generate the same result using GPT-4.0 and make a comparison, but the expense was too high.
-We input each sentence and add “Make this sentence more neutral and objective.” We observed that many people are using this method to let ChatGPT change their sentences, so ChatGPT will not reply with any extra information like “Sure, here are the results.” After GPT transformed all the sentences, we ran the sentiment analysis again just like the original news, and plotted these graphs.
-
-From the figure above, it is clear that the modification made by ChatGPT is not neutralizing the sentiment towards neutral. In fact, they both move towards positive sentiment. The shorter tail of the violin chart on the negative sentiment score side shows that ChatGPT successfully removes some negative text from the original news, while a more biased dense area towards positive indicates that ChatGPT makes the sentiment more positive. ChatGPT’s attitude of “neutral” is in fact towards positive sentiment.
-## Conclusion
-In this project, we found the tendency of five of the most famous media from all around the world toward five various topics. To achieve that, we divided our project into four stages: web scraping, sentiment analysis, word counting, and visualization. After all the steps, we were curious if ChatGPT could help make the tone more neutral.
-The analysis successfully shows the bias in the news. SCMP is especially supportive of the LGBTQ+ topics. At the same time, GPT-3.5 did not make the texts more neutral when we ask it to do so. Instead, it only make the sentences more positive.
-In conclusion, we observed many interesting findings with sufficient data to support this research, and we hope our hard work can help the audience to identify the bias in news and be alerted to it.
-## Reference
-“Twitter sentiment analysis,” Kaggle, https://www.kaggle.com/code/abhineethmishra/twitter-sentiment-analysis/notebook (accessed Dec. 2, 2023).
+## Files
+- `sentiment_prediction.ipynb`: This Jupyter notebook contains  code for sentiment analysis. 
+It uses TensorFlow Keras to run the sentiment prediction on a pre-trained mode. The model is trained on Sentiment140 dataset with 1.6 million tweets. The pretrained model's URL is as followes: https://www.kaggle.com/code/abhineethmishra/twitter-sentiment-analysis/notebook
+- `statistical_plot.R`: Reads the CSV from the sentiment analysis model and generate meaningful figures for data visualization and analysis.
+- `bias_score.csv`: Bias score with column `{file,bias score}``.
+- `time.csv`: running time of individual news files, the average time and total running time. With column `{file,time}`
+- `color_hex.png`: coler hex for reference when choosing the color for visualization.
+- `BoW.scala`: bag of word in scala
+- `PythonPrepocessing.ipynb`: Text preprocessing(tf-idf), word count, bag-of-word
+- `r_visualization.R`: another visualization in R
+- `tf_idf_limit.scala`, `tf_idf.scala`: tf_idf in scala
+- `word_count.scala`: word count in scala
+- `time_performance.csv`: time comparason between spart and python
+## Directory
+- `pretrained_mode`: The pre-trained model and the tokenizer from the above repository.
+- `cs4480_scraped_data`: The raw data scraped from various news media. The file name format is as NEWSTOPIC_MEDIA.txt.
+- `results`: the results output by the sentiment_prediction.ipynb. The file name format is as NEWSTOPIC_MEDIA.csv.
+- `plots`: the figures generated by statistical_plot.R.
+- `neutralized_data` and `neutralized_result`: The news neutralized by ChatGPT and the corresponding result in the same CSV as above.
+- `clustering_pca_results`: The result of clustering pca
+- `data_preprocessing_result`: The results of BoW, tfidf and word_count, in CSV
+- `data_scraping`: The data scraping's ipynb to scrap news using selenium
+- `GPT_API`: The ipynb files to interact with ChatGPT by api and neutralized the news
+- `word_count_top50`: The result of word count
+- `wordcloud`: The resuls image of wordcloud
+## Usage
+1. Run `sentiment_prediction.ipynb` notebook to predict the sentiment. 
+2. Run `bias_score.R` script generate the visualization figures on sentiment result on `sentiment_prediction.ipynb` 
+3. Run `Bow.scala` to generate the Bag of word in scala
+4. Run `PythonPreprocessing.ipynb` to generate the tf-idf, bag of word, and word counting, output the corresponding time and result.
+5. Run `r_visualization.R` to generate some figures on R
+6. Run `tf_idf_limit.scala` and `tf_idf.scala` to generate the tf_idf data in scala
+7. Run `word_count.scala` to generate the word count on scala 
