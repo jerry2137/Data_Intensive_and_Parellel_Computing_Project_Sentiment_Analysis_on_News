@@ -1,0 +1,310 @@
+,result,score,target
+0,NEGATIVE,0.10621070116758347,ELON Musk has announced a major change to X's algorithm after his social media company reportedly lost $25 billion in a year.
+1,POSITIVE,0.8256649971008301,"The CEO of X, the social media site formerly known as Twitter, is altering the algorithm in order to help small creators."
+2,POSITIVE,0.7383447885513306,"""A major update to the recommendation algorithm is rolling out over the next few days,"" Musk wrote on X."
+3,NEUTRAL,0.5412226319313049,"""This will help surface smaller accounts and posts outside of your friend-follows network."
+4,POSITIVE,0.8265499472618103,"""As always, this will be made open source and undergo continuous improvement."""
+5,NEUTRAL,0.6661198735237122,"The new change is an attempt to show users new accounts that share similar interests with them, especially users whose posts are not often seen."
+6,POSITIVE,0.9086315035820007,"His new algorithm adjustment fits perfectly with his plan to make X a creator platform, as smaller creators get the opportunity to make more of an impact."
+7,NEUTRAL,0.6729437708854675,Musk said that he was open to criticism but many people praised the new decision.
+8,POSITIVE,0.7968724966049194,"""Good move. I think some of the biggest criticisms I hear is that smaller accounts don’t get discovered as easily as the larger accounts do. This should help I hope,"" one person replied."
+9,POSITIVE,0.9036096930503845,"""Thanks for helping us smaller accounts,"" another person wrote."
+10,NEGATIVE,0.24290096759796143,"Musk bought Twitter for $44 billion last October and the company has lost about $25 billion in value since its acquisition, according to a report from Fortune."
+11,NEGATIVE,0.23322243988513947,"In the last year, the tech billionaire has made many controversial decisions that have caused advertisers to jump ship."
+12,NEUTRAL,0.49850767850875854,"During his short time with the company, he laid off 80% of its staff and got rid of the name Twitter."
+13,NEUTRAL,0.6182228922843933,"To appease marketers, he hired NBCUniversal ad chief Linda Yaccarino as the chief executive of X earlier this year."
+14,NEUTRAL,0.40744975209236145,"While Musk and Yaccarino have claimed that X is thriving, this has yet to be verified since the company does not have to report its financials."
+15,NEUTRAL,0.6183796525001526,The U.S. Sun has reached out to X for comment.
+16,POSITIVE,0.7824956774711609,TESLA'S bizarre new Cybertruck is coming this month - with its first customers to receive their futuristic-looking EV on November 30.
+17,NEUTRAL,0.542354166507721,But the latest creation from Elon Musk's car giant comes with a head-scratching 'purchase agreement' that could cost owners thousands in fines.
+18,NEGATIVE,0.30378225445747375,"According to an update in Tesla’s Motor Vehicle Purchase Agreement, early buyers of the Cybertruck will be prevented from reselling their monster EV until a year after they take delivery."
+19,NEUTRAL,0.6642622351646423,"The clause was added to Tesla's Purchase Agreement under the “No Resellers” section, which is normally there to prevent dealerships from buying Teslas en-masse to resell them."
+20,NEGATIVE,0.38837283849716187,"But underneath this section is a “For Cybertruck Only” heading, which stipulates that that buyers can’t sell the vehicle within the first year of ownership without explicit permission from Tesla."
+21,NEGATIVE,0.09077973663806915,Those who fail to abide by this new clause can be barred from purchasing Tesla vehicles - or even fined.
+22,NEGATIVE,0.13278444111347198,"Tesla says it currently has over a million Cybertruck reservations, although the EV truck isn’t expected to go into mass production until next year."
+23,NEGATIVE,0.043663617223501205,"Sadly, Tesla removed the option to pre-order the Cybertruck in the UK and Europe last year, and it remains unclear whether or not the Cybertruck will be available to buy in the UK or Europe."
+24,NEUTRAL,0.41994214057922363,The launch of the new Cybertruck is perhaps the most highly anticipated in Tesla's history - with the space-age motor's debut delayed several times.
+25,POSITIVE,0.8946407437324524,"The first commercial unit only rolled off the production line in July, while shareholders got their first look at its strange design in May during a day-long event held by Musk, with photos later being posted on social media."
+26,NEGATIVE,0.37483420968055725,"And in October, footage emerged of a Cybertruck being put through its paces on a 4x4 testing track... and seemingly struggling for traction on an uphill section."
+27,POSITIVE,0.8439643979072571,"However, fans of camping and adventure holidays will be fascinated by an incredible new piece of technology that can transform any EV truck into a lavish camper van."
+28,POSITIVE,0.7869223952293396,"The lightweight and aerodynamic Camp365 T Model works with popular motors like the Rivian R1, Ford Lighting and the Tesla Cybertruck."
+29,POSITIVE,0.848017692565918,SUN readers can win a stunning Ferrari F12 Berlinetta or £110k cash alternative from just 71p with our discount code.
+30,POSITIVE,0.846764862537384,We have teamed up with 7days Performance to offer you a special discounted chance to win the amazing car this week.
+31,NEUTRAL,0.6850324273109436,"Using the code SUN10, you will get 10p off the normal price of 69p."
+32,NEUTRAL,0.6049056053161621,Commercial content notice: Taking one of the offers featured in this article may result in a payment to The Sun. 18+. T&Cs apply.
+33,NEGATIVE,0.20131179690361023,THIS is the shocking moment a Tesla malfunctions and plunges into a lake – and then bursts into flames.
+34,NEUTRAL,0.5750464797019958,"Footage shows a Tesla Model X burning while it is submerged underwater in Hollywood, Florida."
+35,NEGATIVE,0.3270283341407776,The exact details of what caused the accident and the fire are not entirely clear but the electric car can clearly be seen on fire while underwater.
+36,NEGATIVE,0.0915546715259552,It was reported the Model X was backing either jet skis or a boat down the ramp at the Polk Street Boat Ramp on October 1 when something went horribly wrong.
+37,NEUTRAL,0.6126729249954224,The Hollywood Professional Firefighters’ Facebook page said the car “lost traction”.
+38,NEUTRAL,0.6313738822937012,Speculation has suggested the malfunction could have been caused by water getting into the vehicle or it may have struck some underwater object.
+39,NEGATIVE,0.20471355319023132,"The Tesla’s engine could have been previously damaged, allowing water to get inside once the car had backed someway down the ramp."
+40,NEGATIVE,0.08833207190036774,"The driver was unable to open the doors, so her husband, who had just set out on the water on a jet ski quickly turned back to help."
+41,NEGATIVE,0.044873420149087906,No one was injured in the accident.
+42,NEGATIVE,0.2724957764148712,Hollywood Fire Rescue left the car in the saltwater in order to contain the fire and prevent any possible injuries that might have arisen by attempting to pull the Tesla from the water.
+43,NEUTRAL,0.5478417277336121,Saltwater and electric cars are not a good mix as the water can cause lithium-ion batteries to combust.
+44,NEGATIVE,0.3577102720737457,"As well, the minerals left behind after the battery packs dry out can spark fires days or weeks later."
+45,NEUTRAL,0.5360114574432373,"Tesla’s boss Elon Musk has previously commented on X, previously known as Twitter, about how some makes have the ability to float for short periods of time."
+46,NEUTRAL,0.5787445902824402,People though are strongly advised not to try this out for their own safety.
+47,NEGATIVE,0.2546331286430359,"Despite this incident, Tesla has a strong safety record with its Model Y being awarded five stars by the Australasian New Car Assessment Program (ANCAP) last year with the car achieving a record 98 per cent score in the Safety Assist category of the test."
+48,NEUTRAL,0.49886763095855713,In January this year What Car? handed its Safety Award to the Model Y.
+49,POSITIVE,0.8027446866035461,"Similarly, Euro NAP awarded the Model X a score of 94 per cent in its Safety Assist category in 2019."
+50,NEUTRAL,0.4916289150714874,"Earlier this month, Auto Trader described the Model 3 as “one of the best EVs money can buy”."
+51,POSITIVE,0.7237864136695862,The Sun Online has approached Tesla for comment.
+52,NEUTRAL,0.421306312084198,BRITNEY Spears' sister Jamie Lynn has accused EV giant Tesla of killing her cats.
+53,NEGATIVE,0.2586335837841034,"The I'm A Celeb Star pointed the finger at Elon Musk in a now-deleted Instagram video, where she said her felines kept being hit by cars."
+54,NEGATIVE,0.04258935526013374,The 32-year-old claimed her beloved pets were being killed by Teslas because they couldn't hear the quiet motors coming.
+55,NEGATIVE,0.07806174457073212,She wrote on social media: “We have now lost — I don’t want to tell you how many cats — because they don’t hear the Tesla crank and unfortunate things happen and it’s really devastating and tragic for everyone involved.
+56,POSITIVE,0.9191185235977173,"This week it was announced Jamie Lynn will appear in the jungle alongside professional boxer Tony, Nigel Farage and Nick Pickard."
+57,NEUTRAL,0.4927888810634613,There's hopes she will spill the beans on her famous sibling.
+58,NEUTRAL,0.43956273794174194,Bosses are hoping the mum-of-two will tell all about life with the pop megastar after their huge spat in recent years.
+59,POSITIVE,0.7058676481246948,"It comes just weeks after the Toxic singer, 41, branded her a ""total b****"" in her bestselling autobiography."
+60,NEUTRAL,0.41696831583976746,Britney had lived under a strict conservatorship controlled by her father for 13 years.
+61,NEGATIVE,0.030248165130615234,"Meanwhile, Jamie Lynn's pleas to Tesla went unanswered after she called for change so pets “aren’t caught off guard and things don’t end in a very tragic way"", CNN reported."
+62,NEUTRAL,0.601311206817627,But that's because the rules were already changing.
+63,POSITIVE,0.7207180857658386,"As of 2020, regulations meant EVs had to emit sounds louder than a certain decibel - which was the level of noise your washing machine makes."
+64,POSITIVE,0.828548014163971,It's not unusual for Tesla to be a talking point.
+65,NEUTRAL,0.40209898352622986,One owner said he loves his Model 3 but says driving his EV causes a very unexpected problem.
+66,NEGATIVE,0.1948382407426834,"Co-founder of PerfectRec Wally Nowinksi, 38, paid £47,600 ($58,790) for the flash electric motor in July 2020, wanting to be able to drive car long distances."
+67,NEGATIVE,0.16045944392681122,"He was living in San Francisco, California, at the time and the ability to get out of the city became more pressing as the Covid-19 pandemic hit and he wanted to get to Michigan to visit his parents."
+68,NEUTRAL,0.45834359526634216,"While he says his Model 3 has been ideal for driving long-distances, he does say there is a downside to owning a Tesla."
+69,NEUTRAL,0.6831258535385132,SCIENTISTS have engineered a brain implant that can read minds and turn thoughts into speech with a staggering 84 per cent accuracy.
+70,POSITIVE,0.7099431157112122,The major scientific breakthrough could one day help people who can't communicate because of disabilities finally speak.
+71,POSITIVE,0.8159095644950867,The implant can translate a person’s brain signals and what they're thinking into real words for others to hear.
+72,NEUTRAL,0.5489128232002258,The speech device has been developed by a collaborative team of experts at Duke University in the US.
+73,NEGATIVE,0.21981218457221985,"Made up of neuroscientists, neurosurgeons, and engineers they have huge goals of helping people with severe neurological issues feel more happy and comfortable."
+74,NEUTRAL,0.44842201471328735,"One of these is professor Gregory Cohan who said: “There are many patients who suffer from debilitating motor disorders, like ALS or locked-in syndrome, that can impair their ability to speak."
+75,NEUTRAL,0.5899417400360107,The new device is made up of a flexible piece of medical-grade plastic that's as small as a postage stamp.
+76,NEUTRAL,0.40246930718421936,Despite its compact size it's filled with a whopping 256 tiny brain sensors.
+77,NEGATIVE,0.354722261428833,"So far, four patients have tried the implant and the success has been clear to see."
+78,NEGATIVE,0.10211572796106339,It was given to people who were scheduled for brain surgery to help treat Parkinson's disease or removing a tumour.
+79,NEGATIVE,0.18758364021778107,"The implant is hoped to help people with Parkinsons, motor neurone disease, Alzheimer and other issues."
+80,NEGATIVE,0.32703351974487305,"While they were going under for the operation, researchers placed the temporary implant into their brains."
+81,NEUTRAL,0.6914602518081665,This was a huge challenge as it had to be done super quickly to allow the normal operation to continue smoothly.
+82,NEUTRAL,0.5905411839485168,Cohan went on to say: “I like to compare it to a NASCAR pit crew.
+83,NEGATIVE,0.32110336422920227,"“We don't want to add any extra time to the operating procedure, so we had to be in and out within 15 minutes."
+84,NEUTRAL,0.6672903299331665,The patients were then asked a series of questions to help the device figure out how the persons mouth moved and how they pronounce certain sounds.
+85,NEUTRAL,0.5413432121276855,"It was a simple listen-and-repeat activity that helped researchers understand how over 100 muscles in the users lips, tongue, jaw, and larynx work."
+86,NEUTRAL,0.6031812429428101,Then it was programmed into an artificial intelligence system that spoke for the patient.
+87,NEUTRAL,0.6879643797874451,"After the questions, the data was fed into a machine that analysed how accurate the results were based on the predictions, using only the brain activity that was recorded."
+88,POSITIVE,0.8033071756362915,"The sounds made were found to have been translated with an average 40 per cent accuracy, with certain sounds achieving an impressive 84 per cent accuracy."
+89,POSITIVE,0.8579889535903931,"The ""g"" sound was the most clear pronunciation where as similar sounds like ""p"" or ""b"" were much trickier to translate."
+90,NEUTRAL,0.49520182609558105,"Similar devices do currently exist for people with disabilities that inhibit their speech, but they are only for when a person is connected to a secondary device such as a computer or tablet and need an electrical outlet."
+91,POSITIVE,0.7862366437911987,These types of devices are commonly known because of physics genius Stephen Hawking who had amyotrophic lateral sclerosis (ALS) - a form of motor neurone disease that meant he could only speak using a device.
+92,NEGATIVE,0.20056334137916565,Motor neurone disease is a rare condition that affects the brain and nerves and currently has no cure.
+93,NEGATIVE,0.3178483545780182,It causes weakness that gets worse over time and drastically lowers peoples life expectancy.
+94,NEGATIVE,0.11996757984161377,Ex-rugby star Rob Burrows announced in 2019 that he had been diagnosed with the rare disease and has spent the last few years raise awareness of the tragic disease.
+95,NEUTRAL,0.4053070843219757,"This innovative new project, led by Duke University is looking to let people roam freely without the need of annoying wires or being stuck in a certain spot for a whole conversation."
+96,NEUTRAL,0.4553624987602234,They are now hoping to make a cordless version of the device after a recent $2.4million grant from the National Institutes of Health was handed down.
+97,NEUTRAL,0.5006822943687439,The main goal is to dramatically enhance the quality of life for people with a variety of neurological disorders that leave them unable to speak.
+98,NEUTRAL,0.4653085172176361,"Cohan said: “We're now developing the same kind of recording devices, but without any wires."
+99,NEGATIVE,0.2819826006889343,"With anything involving the brain, some have concerns over the ethical and safety issues that come with a major test such as this."
+100,NEGATIVE,0.3096252679824829,"Fears over how the device will affect patients in the long term, getting feedback from the patients if they're agitated and issues during the operation phase of the testing are the biggest worries."
+101,NEUTRAL,0.5428397059440613,Billionaire Elon Musk has been trying to get a similar brain chip concept off the ground in recent years with his company Neuralink.
+102,POSITIVE,0.8582925200462341,The project was approved by US regulators to undergo human trials back in May and they are now looking for their first human volunteers.
+103,NEUTRAL,0.6006417870521545,"Musk claimed in the past that the technology from his company, Neuralink, ""will enable someone with paralysis to use a smartphone with their mind faster than someone using thumbs."""
+104,NEUTRAL,0.63339763879776,The device will be implanted into the brain by a specialist robot instead of a human.
+105,NEUTRAL,0.4473872780799866,"Some are calling it a massive leap in technology for those with paralysis, while others have likened it to the hit near-future dystopian series Black Mirror."
+106,NEGATIVE,0.09398684650659561,"Neuralink and Musk have been under fire from the public however as it was revealed more than 1,000 animals dropped dead in previous trials."
+107,NEUTRAL,0.6294241547584534,ONLOOKERS have claimed that a courtroom sketch artist held a grudge against the Trump family after the drawings caused controversy — a seemingly common trend among several celebrity depictions over the years.
+108,NEUTRAL,0.5105770826339722,"On Wednesday, Ivanka Trump appeared at the legal proceedings to testify in the 45th president's civil fraud trial."
+109,NEUTRAL,0.48894011974334717,"Her actions come as part of the $250million lawsuit that accuses her father, former President Donald Trump, and 18 other co-defendants of committing fraud by inflating assets on financial documents with the alleged goal of better terms on insurance policies, per ABC News."
+110,NEUTRAL,0.6914108991622925,Ivanka quickly became of particular focus after court sketches were released from Wednesday's hearing.
+111,POSITIVE,0.8362336158752441,Viewers quickly took to social media to argue the sketch was an unflattering representation of the former president's daughter.
+112,NEGATIVE,0.29436689615249634,"""Someone else who's insanely jealous of Ivanka Trump and her breathtaking beauty must have drawn this court sketch,"" one person said."
+113,NEGATIVE,0.3607248067855835,"Another added: ""Damn what did Ivanka Trump do to that court sketch artist cause this feels like a grudge."""
+114,POSITIVE,0.7429365515708923,"""Ivanka Trump in a court sketch from her testimony today: Some artists have not taken too kindly to defendants and witnesses in recent times. This is one of the better portrayals,"" a third wrote."
+115,POSITIVE,0.7072785496711731,"Other renderings of former President Trump, Donald Jr., and Eric could also be seen from previous hearings on November 1, 2, and 3, per Reuters."
+116,POSITIVE,0.7482995390892029,"They appeared to be drawn similarly to Ivanka's November 8 depiction, seemingly by the same artist."
+117,NEUTRAL,0.5760713219642639,"The artist was confirmed this week to be Elizabeth Williams, who spoke out after criticisms from former White House press secretary Kayleigh McEnany, who dubbed the sketches a ""travesty"" and said the former president's in particular ""looks nothing like Trump,"" per Newsweek."
+118,NEUTRAL,0.47554272413253784,"Williams told the publication that she is ""getting used"" to blowback over sketches."
+119,NEUTRAL,0.5810667276382446,"""This dumping on court artists has now become part of our business,"" she said."
+120,POSITIVE,0.7097764611244202,"Despite the controversy, Ivanka and the Trump family aren't the only celebrities to have had mixed responses from onlookers over sketch artists' depiction of them at court hearings over the years."
+121,POSITIVE,0.8073839545249939,The U.S. Sun has gathered a comprehensive list of at least six other public figures and pop culture icons who have had sketches of their time in court that some fans later deemed similarly unflattering.
+122,POSITIVE,0.8028091192245483,"While defending themselves in a $108 million defamation lawsuit in April 2022 brought about by model and television personality Blac Chyna, the Kardashians appeared at a court hearing and were rendered in a sketch, per Daily Mail."
+123,POSITIVE,0.7561697363853455,"Kim, Kyle, Khloe, and Kris were pictured side-by-side as the proceedings took place in the image, with Kris seemingly wearing a mask."
+124,NEUTRAL,0.43954190611839294,"The sketch went viral online, with several users bashing the depiction — some going as far as to say they ""hated"" the drawing and felt the famous family looked ""deformed."""
+125,POSITIVE,0.7467860579490662,"Artist Mona Shafer Edwards defended her work to the outlet, noting the nature of her job is more complex than viewers often give credit to."
+126,NEUTRAL,0.5570076107978821,"Pop music icon Taylor Swift also seemingly fell victim to a controversial court sketch during a one-week trial in 2017 where she counter-sued David Mueller, a former Denver DJ who accused Swift of false accusations that he groped her at a photo shoot, per Page Six."
+127,POSITIVE,0.8815017938613892,"The judge ruled in favor of Swift, and Mueller allegedly sent out a $1 Sacagawea coin to the legendary singer-songwriter as payment."
+128,POSITIVE,0.8496436476707458,"Swift was drawn in court with her blonde hair and bangs with a black, multi-colored polo."
+129,POSITIVE,0.9067081212997437,Colorado artist Jeff Kandyba defended his drawings to local Fox affiliate KDVR.
+130,NEUTRAL,0.5325835943222046,"""A person like Taylor Swift, who is very pretty — has perfectly proportioned dimensions on the face — is actually much harder [to sketch],"" he told the station in defense of his work despite criticism online."
+131,NEUTRAL,0.4134248197078705,"""It's hard. Some people are just much easier to draw than others."""
+132,NEGATIVE,0.3790689706802368,"Like Swift, Rihanna also fell victim to a controversial sketch representation during a court hearing in 2009 where her ex-boyfriend Chris Brown pleaded guilty to assaulting her, per The Guardian."
+133,POSITIVE,0.8083240985870361,"The controversial drawing (shown at the top of the page) saw the music superstar sporting short hair at the time with sunglasses, a pearl necklace, and a black dress."
+134,NEUTRAL,0.5684337615966797,"Users on a Reddit thread discussing controversial celebrity drawings criticized the ""long neck"" given to Rihanna."
+135,NEGATIVE,0.3574557602405548,It's unclear who the artist was behind the depiction and if they ever spoke out to defend their work after supposed criticisms.
+136,POSITIVE,0.7469840049743652,"It's also unlikely that businesswoman and media personality Paris Hilton was happy with the court sketch of her in 2007 when she appeared for violating her probation, Reuters reported."
+137,NEGATIVE,0.39188021421432495,"In May of that year, a judge ruled that Hilton spend 45 days in jail for knowingly driving without a valid license after a traffic offense from a previous instance."
+138,NEUTRAL,0.43482574820518494,"Hilton was depicted with features that caused controversy online, with some on the same Reddit thread noting that she appeared to look like someone else entirely."
+139,POSITIVE,0.7229762673377991,"""I thought the Paris Hilton one was Jenna Jameson,"" a user wrote."
+140,NEUTRAL,0.5801811814308167,Another who was unable to escape the sketch controversy was famed singer-songwriter and actress Dolly Parton.
+141,NEUTRAL,0.5632588267326355,"Parton was drawn at a court hearing in 1985 over a copyright lawsuit, according to images shown by Daily Mail."
+142,POSITIVE,0.7195460200309753,The famed celeb's hair appeared to take on a different shape in the drawing than it did in photographs captured from the time around the proceedings.
+143,POSITIVE,0.9065303802490234,"It's unclear who the artist was, but it's likely the drawings didn't earn praise from Parton."
+144,POSITIVE,0.8089634776115417,Tech mogul Elon Musk also received a controversial depiction through a court sketch in December 2019.
+145,NEGATIVE,0.33482030034065247,"Musk was sued for the alleged defamation of British spelunker Vernon Unsworth, who was known for his actions in the rescue attempt of a soccer coach and 12 boys from a flooded Thailand cave in 2018, per Daily Mail."
+146,POSITIVE,0.7601531147956848,"A judge ruled that Musk did not defame the spelunker, but he did not leave the situation with what some might consider a flattering sketch."
+147,NEUTRAL,0.43647342920303345,"Musk could be seen wearing a black suit with a white dress shirt, frowning, and looking off into the distance."
+148,NEUTRAL,0.6308279633522034,FIVE 2024 presidential hopefuls have fought to make their way out of former President Donald Trump's shadow at the latest Republican debate.
+149,NEUTRAL,0.6534271836280823,"The event heated up on Wednesday night when Vivek Ramaswamy made a biting comment about Nikki Haley's daughter, which led her to call him scum and say that Russia was ""salivating"" to see him in office."
+150,NEUTRAL,0.5747533440589905,"Haley, the former Governor of South Carolina, was making a powerful statement about TikTok when entrepreneur Ramaswamy made the low blow."
+151,NEUTRAL,0.42738333344459534,"Haley and others, like Florida Governor Ron DeSantis, called for a nationwide ban of the China-owned app, and Haley slammed Ramaswamy for taking his campaign to the social media platform."
+152,NEUTRAL,0.6862199306488037,"Ramaswamy hit back by saying that her daughter was a user on the app and warned her to ""take care of your family first"" before criticizing him."
+153,NEGATIVE,0.2615712881088257,"It came after he slammed Haley for being ""Dick Cheney in three-inch heels"" with her foreign policy on war in the Middle East."
+154,NEUTRAL,0.5600301623344421,"The mama bear immediately hit back, blasting ""leave my daughter out of your voice"" before adding ""you're just scum."""
+155,NEUTRAL,0.5686678886413574,"Of the three-inch heels jab, she warned that her shoes were actually ""five-inch"" heels that doubled as ammunition."
+156,POSITIVE,0.7976115942001343,Wednesday night's debate involved a slimmed down panel of candidates.
+157,POSITIVE,0.9372296929359436,"DeSantis, Haley, and Ramaswamy were joined by South Carolina Senator Tim Scott and former New Jersey Governor Chris Christie on the main stage in Miami to bid for America's vote of confidence."
+158,NEUTRAL,0.4484921097755432,"The candidates were immediately asked by NBC News host Lester Holt to distinguish themselves from Donald Trump, who has been crushing the polls since his announcement nearly one year ago."
+159,NEGATIVE,0.12453360855579376,"He has failed to show up to a debate and instead was hosting a rally in Hialeah, Florida, about a half hour's drive from where his rivals took the stage."
+160,NEGATIVE,0.23084448277950287,"DeSantis, who was once thought to be a front-runner, ripped into Trump for cranking up the national debt during his presidency and failing to force Mexico to fund a border wall."
+161,NEUTRAL,0.4433166980743408,"Meanwhile, Ramaswamy said there was a ""cancer"" in the Republican Party and used Holt and the other moderators as his example."
+162,NEUTRAL,0.50592440366745,"He said that Tesla CEO Elon Musk, podcaster Joe Rogan, and former Fox News powerhouse Tucker Carlson should be the ones moderating and questioning the next RNC leader."
+163,POSITIVE,0.8538762927055359,"Part of the debate centered around the war between Israel and Hamas, with the majority of candidates holding strong support for the Jewish state."
+164,POSITIVE,0.70491623878479,Haley urged Israel to eradicate Hamas with US support but clarified that Americans should not step foot on Gaza Strip soil.
+165,NEGATIVE,0.16885578632354736,"She found a cheerleader in Scott, who said: ""You have to cut off the head of the snake. And the head of the snake is Iran."""
+166,POSITIVE,0.7224881649017334,There was more division on the stage over the Ukraine war with Haley and Scott voicing their support for Volodymyr Zelensky's cause.
+167,POSITIVE,0.8724367022514343,"Haley said: ""We should give them the equipment, the ammunition to win,"" and Scott added: ""Every day we get closer to the degradation of the Russian military, and that's good news."""
+168,POSITIVE,0.7594873905181885,Ramaswamy deemed the war a fool's errand and brought up the steep population differences between the states before making jabs at Haley.
+169,NEUTRAL,0.6773539185523987,"She hit back: “I am telling you, Putin and President Xi are salivating at the thought that someone like that could become president,"" referencing the Russian leader and Chinese President Xi Jinping."
+170,NEGATIVE,0.3322060704231262,"After the debate, Haley addressed Ramaswamy's comment about his daughter, telling NBC News: ""I'm a mom. The second you start saying something about my 25-year-old daughter I'm going to get my back up."""
+171,NEUTRAL,0.6848953366279602,"The candidates also answered questions about abortion, Social Security and retirement age, and foreign policy."
+172,NEGATIVE,0.3971827030181885,A MAJOR car brand has released a 'sporty' version of a tiny EV that boasts a top speed of just 28mph.
+173,POSITIVE,0.7552824020385742,"Citroen’s quirky Ami, an incredibly small ‘quadricycle’ that's perfect for city-dwellers, has proven popular since it was launched two years ago - racking up an impressive 43,000 sales."
+174,NEUTRAL,0.4431215524673462,"The micro EV - which was reviewed by us back in late 2020 - is a mere 2.4 metres long, 1.4m wide, 1.5m high, and can do around 47 miles non-stop on a single charge."
+175,NEUTRAL,0.47197797894477844,"Packaged to road-users as cheap “urban mobility for all”, it delivers just 8bhp from a 5.5kWh battery pack and takes 10 seconds to reach its top speed."
+176,NEUTRAL,0.4685162901878357,"What's more, it is legal to drive the Ami from the age of 16 in the UK on a moped licence - a whole year above the legal driving age of 17."
+177,NEUTRAL,0.43567731976509094,"Citroen are now set to release a new sportier trim for their My Ami Pop, which adds alloy wheel trims, a black strip under the windshield, front and rear bumper sections, a set of graphics for the doors and even a rear spoiler."
+178,NEGATIVE,0.1031787097454071,BATT OUTTA HELL How do I know if my electric car battery needs replacing?
+179,NEGATIVE,0.2158975750207901,"Antoine Gaillot-Drevon, Citroen's exterior designer, said: ""With this new front end, we wanted to make the new My Ami Pop striking and recognisable to everyone, even from 100 metres away."
+180,NEUTRAL,0.5969682931900024,"""With its rear spoiler, My Ami Pop already boasts a distinctive sporty silhouette."
+181,POSITIVE,0.8750447034835815,"""By bringing in new colours and graphics, these styling attributes have reinforced Ami's energetic character, while echoing the responsive and dynamic driving that customers enjoy in electric mode."""
+182,NEUTRAL,0.5008499622344971,"From the first quarter of 2024, the Ami Pop will also introduce some functional changes, with the the driving selector moved from the door sill to the centre console, placing it alongside the USB socket and ventilation controls."
+183,NEUTRAL,0.5906609296798706,"Drivers can use their smartphone as a makeshift dashboard, with quick access to navigation functions and music."
+184,NEGATIVE,0.27107930183410645,"Elsewhere, the world's fastest EV has broken the Guinness World Record by reaching 171.34mph while driving in reverse."
+185,NEUTRAL,0.5343790650367737,"The Croatian-built Rimac Nevera entered ""uncharted territory"" by clocking the eye-watering speed backwards at the Automotive Testing Papenburg Centre in Germany."
+186,NEGATIVE,0.0909322053194046,"In more EV news, a Tesla owner has revealed a very unexpected problem that he's been suffering since driving his beloved Model 3."
+187,POSITIVE,0.8581192493438721,SUN readers can win a stunning McLaren 600LT or £100k cash alternative from just 62p with our discount code.
+188,POSITIVE,0.846764862537384,We have teamed up with 7days Performance to offer you a special discounted chance to win the amazing car this week.
+189,NEUTRAL,0.6850324273109436,"Using the code SUN10, you will get 10p off the normal price of 69p."
+190,NEUTRAL,0.6049056053161621,Commercial content notice: Taking one of the offers featured in this article may result in a payment to The Sun. 18+. T&Cs apply.
+191,POSITIVE,0.8289894461631775,"IF you’re a punter looking for the best online betting experience, there are two things you should do. First, seek out the betting site with the best reputation. Ideally, it offers slots, jackpots, bingo, lottery, lotto, scratchcards, blackjack, roulette, and competitive sports odds in one place."
+192,POSITIVE,0.7058653831481934,"The second thing is to make sure your preferred site offers secure and convenient payment options - like PayPal. If you’re on the hunt for the best PayPal betting sites, then this review will get you where you need to go. We’ll also cover all the major questions bettors have when getting started with deposit methods for the first time."
+193,POSITIVE,0.8544611930847168,"Get £30 in Free Bets with bet365 Bonus Code ""SUN365"""
+194,POSITIVE,0.7517831325531006,"New Customers only. Bet £10* & Get £30* in Free Bets. Sign up, deposit between £5* and £10* to your account and bet365 will give you three times that value in Free Bets when you place qualifying bets to the same value and they are settled. Free Bets are paid as Bet Credits. Min odds/bet and payment method exclusions apply. Returns exclude Bet Credits stake. The bonus code SUN365 can be used during registration, but does not change the offer amount in any way. T&Cs, time limits & exclusions apply."
+195,NEUTRAL,0.6130427122116089,"Providers - Content matters when choosing between gambling sites. You need instant access to the best games and the best odds, and you definitely don’t want to run out of options. PayPal is available at a number of betting sites, but not all of these are created equal."
+196,NEUTRAL,0.5853806734085083,"Promotions - One of PayPal’s main benefits is how easy it is to make withdrawals. But to experience this feature you’ll need to land a few wins. A bonus or promotion will help you to get the most out of every deposit, and increase your chances of walking away with a win. Our reviews also took into consideration bonus amounts, payment restrictions, and the ease of cashing out."
+197,NEUTRAL,0.5032203793525696,"Payment processing speed - Efficient online transitions are a two-way street. Your payment method can only do so much, the betting site must also pull its weight. Less reputable sites will hang on to your payout as long as possible, often employing frustrating delay tactics. We filter these betting sites out to make sure you get your hands on your cash as quickly as possible."
+198,POSITIVE,0.7020470499992371,"Customer support - we scrutinized the customer offer and support provided to members, evaluating the betting site's overall customer base. By covering everything from the steps involved in using PayPal to the various offerings available, we are confident in the ratings provided for each of the sportsbooks reviewed."
+199,POSITIVE,0.8544611930847168,"Get £30 in Free Bets with bet365 Bonus Code ""SUN365"""
+200,POSITIVE,0.7517831325531006,"New Customers only. Bet £10* & Get £30* in Free Bets. Sign up, deposit between £5* and £10* to your account and bet365 will give you three times that value in Free Bets when you place qualifying bets to the same value and they are settled. Free Bets are paid as Bet Credits. Min odds/bet and payment method exclusions apply. Returns exclude Bet Credits stake. The bonus code SUN365 can be used during registration, but does not change the offer amount in any way. T&Cs, time limits & exclusions apply."
+201,NEGATIVE,0.32051971554756165,"bet365 has been an online bookmaker since 2001, and it's been integrated with PayPal for nearly as long. The bookie allows you to deposit and withdraw to bet on sports, slots, poker, blackjack, and more. Once you verify your bet365 accounts with PayPal, your Wallet will be up and running, and depositing is instant."
+202,NEUTRAL,0.6769638061523438,"New customers, Deposit & Place a Bet within 7 days, and settle a £10 minimum bet at odds of 4/5 (1.8) or greater, to be credited with 3x £10 free bets: 1 x £10 Horse racing, 1 x £10 Free Bet Builder and 1 x £10 Football. Stake not returned. Full T&Cs apply. 18+ BeGambleAware.org."
+203,NEUTRAL,0.45390748977661133,"This online sportsbook has been operating since 2018 with great success. Some punters might prefer working with a long-established brand, but BetUK has proved itself to be small and powerful. Payment methods are limited, but PayPal is included as the main eWallet option. You’ll also be able to choose from several promotions with every deposit."
+204,NEUTRAL,0.5999301075935364,"18+ New UK+IRE Customers only. Certain deposit methods & bet types excl. Min first £5 bet within 14 days of account reg at min odds 1/2 to get 4x £5 free bets. Free bets available to use on selected sportsbook markets only. Free bets valid for 7 days, stake not returned. Restrictions + T&Cs apply."
+205,NEUTRAL,0.4766668379306793,"With over 130 years in the business, Ladbrokes is one of the most reputable bookmakers in the UK. They offer a wide variety of betting options, including sports, casino, and lottery games, as well as unique features such as Odds Boost, Cash Out, and Bet Builder. Ladbrokes accepts PayPal as a payment option, making it easy to deposit and withdraw funds quickly and securely."
+206,NEGATIVE,0.3903450071811676,"Coral is a popular UK bookmaker that offers a range of sports, casino, and gaming options. They have built a strong reputation for providing excellent customer service. In addition to traditional betting options, Coral also offers unique features such as Build Your Bet, which allows users to create their own bets, and Smart Boost, which offers enhanced odds on select markets. Coral accepts PayPal as a payment option, making it easy for users to quickly and securely deposit and withdraw funds."
+207,NEUTRAL,0.48280802369117737,"New customers only. 18+, BeGambleAware.org. Min deposit £10. Money back as bonus. Wagering requirements: Sportsbook 3x at min. odds of 1.40 (2/5), Casino 50x. Only one bonus can be used at a time, Sportsbook bonus must be wagered before using the Casino, unless the bonus has been forfeited. Bonus will expire after 7 days of opt-in. Full T&Cs apply."
+208,NEUTRAL,0.47540733218193054,"Unibet is one of the top bookmakers, being a top brand that goes hard on advertising and sports sponsorship deals. It’s been integrated with eWallets, including PayPal, ever since these methods opened up to betting sites. Many view Unibet as a great entry-level site, with a simple betting interface and generous casino bonus amounts for sports, slots, jackpots, blackjack, and roulette, to keep small budgets moving."
+209,NEUTRAL,0.526939332485199,18+ only | New customers only. Min. deposit of £/€10. Qualifying real money bet of £/€10. Min odds greater than or equal to 1.5 required. E/W bets excluded. Offer credited within 48 hours. More T&Cs apply.
+210,NEUTRAL,0.4064095914363861,"As a betting site with an odd name and a smaller profile, kwiff isn’t on many top ten lists. We think it should be because, despite only being launched in 2015, it works hard to keep up with the big fish. Instead of going after high visibility, kwiff decided to target high functionality. Download the betting app and link your PayPal account for a streamlined experience."
+211,POSITIVE,0.7105867862701416,New customers. Max £10. 100% Odds Boost token. Offer applies to Sport bets only. Maximum total stake is £10. Each way bets are a maximum of £5 each way (£10 total stake). Full T&Cs apply.
+212,NEGATIVE,0.27834606170654297,"Grosvenor Casinos is a reputable UK bookmaker with over 50 years of experience in the industry. They have a wide range of sports betting options, including popular sports such as football, horse racing, and tennis. Grosvenor Casinos also offers live streaming for select events, allowing users to watch and bet on games in real-time. They have a mobile app for iOS and Android devices, making it easy to place bets on the go. Grosvenor Casinos accepts PayPal as a payment option, ensuring fast and secure deposits and withdrawals."
+213,NEUTRAL,0.4496724009513855,"18+ New customers only. Opt in, bet £10+ at odds 2.00+, in 7 days. No cash out. Get 3x £10 Free Bets on selected events. Plus a £10 Slot Bonus, selected games, wager 20x to withdraw max £250. 7 day bonuses expiry. Card payments only."
+214,NEUTRAL,0.6745815873146057,"BetVictor is a popular UK bookmaker with a wide range of sports betting options, including football, basketball, tennis, and horse racing. They offer competitive odds and a variety of betting markets, including live betting and virtual sports. BetVictor also has a mobile app for iOS and Android devices, making it easy to place bets on the go."
+215,NEUTRAL,0.6860059499740601,"Despite being up and running since 1997, many people still haven’t heard of Parimatch. They tend to fly under the radar, focusing on offering a quality experience rather than flashy ad campaigns and sporting events. Parimatch has definitely reached maturity now, able to compete with the big fish by way of generous promos and attractive odds."
+216,NEGATIVE,0.34687530994415283,"*New UK customers only. Min Deposit: £5. Maximum Free Bet: £30. First bet on a Football or Horse Racing multiple with 3+ selections. Overall odds: 3.00 (2/1) or higher. Free Bets available upon settlement of the qualifying bet. This is offer is valid for 7 days from your new account being registered. 50 Bonus Spins credited on placement of qualifying Acca bet.50x bonus wagering applies as do weighting requirements, bonus Spins only available on selected games and expires 7 days after being awarded. Debit card deposits only (exclusions apply). 18+. Full terms apply."
+217,POSITIVE,0.8482663631439209,"Betway has been signing up players since 2006, offering a fantastic sports and casino combo. They’re big on eWallets as payment methods, offering the option of not just PayPal but also InstaDebit, iDebit, and more. It’s a well-established and well-rounded site that allows players to fill their time with all types of gambling entertainment."
+218,NEGATIVE,0.08709625899791718,What is PayPal and how does it work?
+219,NEGATIVE,0.20197857916355133,"Getting set up on PayPal is easy. Just register an account, but be sure to choose the PayPal site that’s designed for the UK. Once you input your personal details, you can plug in your bank card and choose how much money you want to transfer."
+220,NEUTRAL,0.45900657773017883,"Once this goes through, and it’s usually instant, simply visit your betting site cashier. There you can click ‘deposit’ and choose ‘PayPal’ from the list. Once you confirm your deposit amount, you’ll be redirected to a PayPal login page to confirm your deposit. For payouts, the process is very similar."
+221,POSITIVE,0.8438901901245117,What are the benefits of using PayPal?
+222,NEGATIVE,0.12058135867118835,You never have to reveal your full financial information like your credit card or debit card details to the betting site. You use a password to log in.
+223,NEUTRAL,0.4093446135520935,"PayPal utilises top of the range encryption security on every single transaction, so the chances of funds getting hacked are very slim indeed."
+224,NEUTRAL,0.4611859917640686,"Paypal transactions are super quick and very transparent, allowing you to keep track of your deposits and withdrawals."
+225,POSITIVE,0.7908720970153809,What are the disadvantages of using PayPal?
+226,POSITIVE,0.8881386518478394,"Nothing is perfect, and few things are worse than a 100% positive review. The truth is that while PayPal is a fantastic option, there are some things you should keep in mind before creating your account."
+227,NEGATIVE,0.21322205662727356,"Conversion fees across countries cost money, so do try to avoid them if possible. Always deposit and withdraw in the native currencies of your PayPal account."
+228,POSITIVE,0.8544611930847168,"Get £30 in Free Bets with bet365 Bonus Code ""SUN365"""
+229,POSITIVE,0.7517831325531006,"New Customers only. Bet £10* & Get £30* in Free Bets. Sign up, deposit between £5* and £10* to your account and bet365 will give you three times that value in Free Bets when you place qualifying bets to the same value and they are settled. Free Bets are paid as Bet Credits. Min odds/bet and payment method exclusions apply. Returns exclude Bet Credits stake. The bonus code SUN365 can be used during registration, but does not change the offer amount in any way. T&Cs, time limits & exclusions apply."
+230,NEUTRAL,0.5126543641090393,Are there any fees for using PayPal?
+231,NEUTRAL,0.4826506972312927,What is the minimum you have to deposit when using PayPal?
+232,NEGATIVE,0.23970168828964233,What is the minimum withdrawal with PayPal?
+233,NEGATIVE,0.14724192023277283,"There aren't many withdrawal restrictions in place when it comes to your PayPal money balance. You can almost clean out your PayPal account down to the last penny, with a min withdrawal of £1. Keep in mind that we’re drawing a distinction here between withdrawing from PayPal and withdrawing from your betting account. Most betting sites set minimum withdrawals at about £10. That means if your betting account balance sits at £5 you’ll probably need to let it sit there. On the other hand, if your PayPal balance is at £5, you’ll be able to withdraw 100% of it."
+234,POSITIVE,0.7934926748275757,Is it safe to bet online with PayPal?
+235,NEGATIVE,0.39383235573768616,"PayPal is an extremely safe e-Wallet, backed by sophisticated software and encryption. It’s also been around for a very long time, meaning the company is wise to hackers. But the truth is that nothing is ever completely secure, and there are always new scammers out there looking to make a quick buck."
+236,NEGATIVE,0.35031265020370483,"The lure of millions of e-wallets filled with digital cash and the occasional sports bet settlement is difficult to resist. But don’t let this put you off. All you need to do is stay alert and vigilant when it comes to scams, particularly phishing emails. PayPal customer service will never ask you to divulge your financial information via email or phone, so hit delete quickly whenever someone asks - no matter how convincing they may seem!"
+237,NEGATIVE,0.3820236027240753,What are the alternatives to PayPal?
+238,NEGATIVE,0.39597082138061523,"If you’re not sold on PayPal, that’s absolutely fine. Most online casinos and online sportsbooks give players the ability to choose from three or more different payment options."
+239,NEUTRAL,0.47050201892852783,Find our detailed guide on responsible gambling practices here.
+240,POSITIVE,0.8071548938751221,"For help with a gambling problem, call the National Gambling Helpline on 0808 8020 133 or go to www.gamstop.co.uk to be excluded from all UK-regulated gambling websites."
+241,NEUTRAL,0.6639841198921204,"BIG Brother star Matty's boyfriend has finally broken his silence on the ""love triangle"" in the house and took a savage swipe at love rival Jordan."
+242,NEUTRAL,0.6298016905784607,"Matty, Jordan and Henry has been involved in an awkward romantic entanglement since week one."
+243,NEGATIVE,0.2490294873714447,"On tonight's show, Matty, who is in an open relationship on the outside, missed out on the opportunity to hear from his partner after Trish and Chanelle picked Yirun's boyfriend to enter the house instead."
+244,NEGATIVE,0.25570493936538696,"On tonight's Late and Live show, viewers were treated to a surprise appearance from Matty's boyfriend Connor."
+245,POSITIVE,0.9436228275299072,"In a pre-recorded clip for Matty, Connor said: ""Hello my love, hope you're doing well."
+246,NEUTRAL,0.4828833043575287,"""I know the past week or so has been pretty tough with everything going on."""
+247,NEGATIVE,0.1909852921962738,Connor then took a huge swipe at lawyer Jordan and insisted Matty should keep his distance from him for the remaining time in the house.
+248,NEGATIVE,0.18420645594596863,"""I just want you to know that you've done nothing wrong, you don't need to second guess yourself,"" Connor continued."
+249,NEUTRAL,0.6224471926689148,"""Just because other people can't handle their emotions the same way as maturely - it doesn't mean that the responsibility is on you."""
+250,POSITIVE,0.8433298468589783,"In a final dig to Jordan, Connor added: ""So stick to being around people who allow you to be you - Trish, Yinrun, Henry, Chanelle."
+251,NEGATIVE,0.24579356610774994,"""And your mum says to get a haircut."""
+252,POSITIVE,0.8621694445610046,Host AJ Odudu was quick to spot the snub.
+253,POSITIVE,0.7658069729804993,"Back in the studio, she told audience members: ""So Matty's boyfriend said he could be himself in front of Trish, Yinrun, Henry and Chanelle."
+254,NEGATIVE,0.2153814136981964,"""Anyone missing from Matty's boyfriend's list?,"" which prompted the audience to shout Jordan."
+255,NEGATIVE,0.2477063685655594,"It comes after Jordan shocked viewers last week when he brutally ""dumped"" Henry."
+256,POSITIVE,0.7198722958564758,"Jordan made his feelings known and insisted that he and Henry were purely ""platonic"", while he also put a stop to his antics with Matty."
+257,NEGATIVE,0.3423294126987457,"Speaking to Henry in the kitchen, Jordan said: ""I had a very long conversation [with Matty], today was always going to be the most extreme of days."
+258,POSITIVE,0.7004856467247009,"""Also I think I need to say to you, our friendship is platonic right?"
+259,NEUTRAL,0.5658083558082581,"""Your friendship to me means more to me than every other friendship in here combined and I would never want to lose you as a friend."
+260,POSITIVE,0.8834251165390015,"""I don't care if your parents are Elon Musk or homeless - I think you're such a decent guy and I love chatting to you, I think you're fabulous."""
+261,POSITIVE,0.8971334099769592,"Appearing disheartened, Henry said: ""I think you're great too, you make me laugh a lot."""
+262,NEUTRAL,0.6032367944717407,"Jordan then shouted across the room at Matty and said: ""I've just told Henry about our new pact and it's going to be smooth sailing."""
+263,NEGATIVE,0.37235313653945923,"Matty told Henry: ""I'm sorry for it spilling out onto everyone else because that's not cool, it has been awkward these past couple of days and I do acknowledge that."""
+264,NEGATIVE,0.2670137286186218,"Meanwhile, Matty has been on the receiving end of Jordan's hot and cold mood swings for weeks now."
+265,NEUTRAL,0.400752454996109,"Matty has repeatedly pulled Jordan up on his behaviour, saying it can be ""hurtful"" when he acts ""spiky"" towards him."
+266,NEGATIVE,0.3267798125743866,"A CAR dealer has claimed that his business is being hammered after some ""rapid"" changes in the industry - and they aren't the only ones."
+267,NEGATIVE,0.2553904056549072,"Lee, who runs Car UK in Cheshire, took to YouTube to share the plight of traders over the past couple of months."
+268,NEUTRAL,0.4945238530635834,"Lee told viewers that prices have been in freefall, putting huge pressure on dealerships' profit margins."
+269,NEUTRAL,0.4379729628562927,"He cited price cuts from some major brands as part of the reason behind this, mentioning the impact Tesla's reductions had on the resale EV market."
+270,NEGATIVE,0.3077126145362854,"The Elon Musk-helmed company slashed the cost of some of their most popular models by up to £2,000 in October."
+271,POSITIVE,0.7235962748527527,"US giant Ford swiftly followed suit, hacking £7,000 off of their flagship EV, the Mustang Mach-E."
+272,NEUTRAL,0.5108122229576111,These are just two examples of manufacturers trying to drum up demand in the face of slumping EV sales.
+273,NEGATIVE,0.24527008831501007,"And despite the strongest October for new car sales since 2019, with numbers returning to pre-pandemic levels according to Autocar, these cuts have been mirrored in the non-EV sector."
+274,POSITIVE,0.7335497736930847,All this contributed to a rapid and significant devaluing of second-hand cars.
+275,NEGATIVE,0.3052663505077362,Resale dealers were forced to lower their prices to remain competitive and maintain the incentive for customers to buy pre-loved motors as opposed to the suddenly cheaper new alternatives.
+276,NEGATIVE,0.18193289637565613,"Data from Cap HPI found that October saw prices of used cars fall by an average of 4.2%, the largest drop since 2011, as reported by Car Dealer Magazine."
+277,NEUTRAL,0.595502495765686,"Illustrating this, Lee used the example of his wife's Range Rover, which he bought for just under its trade price of £7,400 18 months ago."
+278,NEGATIVE,0.24170787632465363,"He claimed that when he valued the car this week, this had fallen to £2,850."
+279,NEGATIVE,0.21024546027183533,"The distraught dealer added: ""Things have been pretty grim for some dealers."
+280,NEGATIVE,0.18203449249267578,"""People are going online and looking at cars...they're just not committing or ringing up in the numbers that they were."
+281,NEGATIVE,0.35381147265434265,"""That to me shows clearly that people are being really cautious about their next purchase and don't want to be caught out in a price drop."""
+282,NEGATIVE,0.3459135890007019,He even shared anecdotes from other dealers who had sold a grand total of zero cars throughout October.
+283,POSITIVE,0.8060316443443298,"However, Lee is one of the lucky ones thanks to the type of business he runs."
+284,NEUTRAL,0.6642001867294312,"He explained that ""budget"" dealers, which he defined as those selling motors for £3,000 or under, have been mostly unaffected."
+285,NEUTRAL,0.410294771194458,This is largely because such cheap cars are either quite old or extremely readily available and so price cuts to newer models don't really touch them.
+286,NEUTRAL,0.41823500394821167,"As such, motors on the market for between £3,000 and £4,000 are still ""flying out the door""."
+287,NEGATIVE,0.24727760255336761,"In fact, they are even going up in price, according to Lee, as retailers who previously dealt exclusively in higher-end vehicles are now competing in the low-price market."
+288,NEUTRAL,0.6842345595359802,"He also saw reasons for hope, as he expects sales to pick back up in the new year and for things to ""stabilise""."
+289,NEGATIVE,0.010742108337581158,"It comes after one EV driver claimed that the value of his car dropped by thousands overnight, leaving him feeling ""physically sick""."
+290,NEUTRAL,0.5844482779502869,"Meanwhile, motorists were given a significant boost as The Sun exclusively revealed that Chancellor Jeremy Hunt will not announce a rise in fuel duty in the next Budget."
+291,NEGATIVE,0.1297866404056549,PLAYSTATION gamers have been left frustrated after it was announced a key sharing feature will disappear forever next week.
+292,NEUTRAL,0.6590517163276672,And fans are pointing the finger at one tech billionaire for the unexpected change.
+293,NEGATIVE,0.23310567438602448,"Sony has revealed that both PS5 and PS4 consoles will lose integration with X, previously known as Twitter."
+294,NEGATIVE,0.3856155276298523,It means players will no longer be able to share any clips or screenshots from their games on the platform.
+295,NEUTRAL,0.4323899447917938,The tool will be switched off on November 13.
+296,NEGATIVE,0.2431999146938324,Sony hasn't explained why the long-running feature is going away.
+297,NEUTRAL,0.4386521279811859,But some have speculated that it might be to do with new rules and pricing to access the social network that were introduced earlier this year.
+298,NEGATIVE,0.16894637048244476,"By extension, gamers are blaming Elon Musk, 52, for the ""disappointing"" removal, following a number of big changes to X since buying the company in October 2022 for £35billion / $44billion."
+299,NEGATIVE,0.31021928787231445,PlayStation rival Xbox has already pulled sharing support to the platform a few months back.
+300,NEGATIVE,0.1444251537322998,"""PlayStation will no longer tweet to X with achievements in a week because Musk wants massive fees from Sony to access API's,"" one person vented."
+301,NEGATIVE,0.38676705956459045,"""Does he not realise no one will be left using X at this rate!?!?"""
+302,NEGATIVE,0.2700871527194977,"Another said: ""Musk thought he could charge corporations with his API, so PlayStation backed out."
+303,NEUTRAL,0.6702954173088074,"""I imagine that will also happen with Switch soon."""
+304,NEGATIVE,0.2625281512737274,"A third added: ""Elon Musk has gone too far if PlayStation removes the integration to post screenshots and videos directly from PS5."""
+305,NEUTRAL,0.6952390074729919,"Musk has since tweeted about the matter, saying he ""will look into this""."
+306,NEUTRAL,0.4235071539878845,An alert has started appearing on PS4 and PS5 consoles warning gamers.
+307,NEGATIVE,0.33303678035736084,"It reads: ""As of November 13, 2023, integration with X (formerly known as Twitter) will no longer function on PlayStation 5 and PlayStation 4 consoles."
+308,POSITIVE,0.7714216113090515,"""This includes the ability to view any content published on X on PS5/PS4, and the ability to post and view content, trophies, and other gameplay-related activities on X directly from PS5/PS4 (or link an X account to do so)."""
